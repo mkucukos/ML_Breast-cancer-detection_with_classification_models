@@ -10,11 +10,11 @@ Dataset Used: Breast Cancer Wisconsin (Diagnostic) Dataset
 ```bash
 $ pip install -r requirement.txt
 ```
-![model's output](./figure1.png)
-![model's output](./figure2.png)
-![model's output](./figure3.png)
-![model's output](./figure4.png)
-![model's output](./figure5.png)
-![model's output](./figure6.png)
-![model's output](./figure7.png)
-![model's output](./figure8.png)
+![model's output](./Figure1.png)
+![model's output](./Figure2.png)
+![model's output](./Figure3.png)
+![model's output](./Figure4.png)
+![model's output](./Figure5.png)
+![model's output](./Figure6.png)
+![model's output](./Figure7.png)
+![model's output](./Figure8.png)
